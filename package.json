@@ -10,5 +10,9 @@
   "exports": {
     ".": "./index.js",
     "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "punycode": "^2.1.1",
+    "twemoji-parser": "^13.1.0"
   }
 }
