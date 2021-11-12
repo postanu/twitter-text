@@ -1,0 +1,14 @@
+{
+  "name": "@postanu/twitter-text",
+  "version": "0.1.0",
+  "description": "ESM wrapper around @twitter/twitter-text",
+  "author": "Eduard Aksamitov <e@edaks.co>",
+  "homepage": "https://postanu.com/",
+  "repository": "postanu/twitter-text",
+  "sideEffects": false,
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  }
+}
