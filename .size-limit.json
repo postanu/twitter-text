@@ -1,0 +1,23 @@
+[
+  {
+    "path": "./regexp/index.js",
+    "import": "{ extractUrl }",
+    "limit": "7 KB"
+  },
+  {
+    "path": "./index.js",
+    "import": "{ parseTweet }",
+    "limit": "12.04 KB"
+  },
+  {
+    "import": {
+      "./index.js": "{ parseTweet }",
+      "./regexp/index.js": "{ extractUrl }"
+    },
+    "limit": "12.04 KB"
+  },
+  {
+    "path": "./index.js",
+    "limit": "14.52 KB"
+  }
+]
