@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@postanu/eslint-config': ^3.3.0
+  '@types/twitter-text': ^3.1.1
   eslint: ^8.2.0
   eslint-config-standard: ^16.0.3
   eslint-plugin-import: ^2.25.3
@@ -14,6 +15,7 @@ specifiers:
   twemoji-parser: ^13.1.0
 
 dependencies:
+  '@types/twitter-text': 3.1.1
   punycode: 2.1.1
   twemoji-parser: 13.1.0
 
@@ -323,6 +325,10 @@ packages:
   /@types/normalize-package-data/2.4.1:
     resolution: {integrity: sha512-Gj7cI7z+98M282Tqmp2K5EIsoouUEzbBJhQQzDE3jSIRk6r9gsz0oUokqIUR4u1R3dMHo0pDHM7sNOHyhulypw==}
     dev: true
+
+  /@types/twitter-text/3.1.1:
+    resolution: {integrity: sha512-TqUdwZOdCi3pB4kmCyOS6sjLfzRjbqcwFuVKGQ9Gq9J37GBnF7mf6cIw/zN2GgDbvXYEEfoiuPGFw+TK5ZU0EA==}
+    dev: false
 
   /acorn-jsx/5.3.2_acorn@8.5.0:
     resolution: {integrity: sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==}
