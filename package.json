@@ -9,6 +9,7 @@
   "type": "module",
   "exports": {
     ".": "./index.js",
+    "./regexp": "./regexp/index.js",
     "./package.json": "./package.json"
   },
   "dependencies": {
