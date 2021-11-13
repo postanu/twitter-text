@@ -15,5 +15,16 @@
   "dependencies": {
     "punycode": "^2.1.1",
     "twemoji-parser": "^13.1.0"
+  },
+  "devDependencies": {
+    "@postanu/eslint-config": "^3.3.0",
+    "eslint": "^8.2.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prefer-let": "^3.0.1",
+    "eslint-plugin-promise": "^5.1.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-unicorn": "^38.0.1"
   }
 }
