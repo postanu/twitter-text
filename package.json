@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "ESM wrapper around @twitter/twitter-text",
   "author": "Eduard Aksamitov <e@edaks.co>",
+  "license": "MIT",
   "homepage": "https://postanu.com/",
   "repository": "postanu/twitter-text",
   "sideEffects": false,
