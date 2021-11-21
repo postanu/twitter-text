@@ -1,6 +1,6 @@
 {
   "name": "@postanu/twitter-text",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ESM wrapper around @twitter/twitter-text",
   "author": "Eduard Aksamitov <e@edaks.co>",
   "license": "MIT",
